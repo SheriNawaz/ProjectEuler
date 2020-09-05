@@ -17,4 +17,5 @@ def main():
     print(sum)
 
 
-main()
+if __name__ == '__main__':
+    main()
