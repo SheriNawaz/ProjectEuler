@@ -1,2 +1,2 @@
 # Project Euler
-Python Solution To Project Euler Tasks
+This repo contains my solutions to Project Euler problems using the Python programming language
