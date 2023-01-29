@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8908e6-59f9-4fe1-8784-40309c6a07fd" name="Changes" comment="" />
+    <list default="true" id="bf3da297-7a54-4b18-b0dd-1dfb1ebc8b1a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,20 +13,20 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2L0NANwqebq4GBnWTY8cNQNzPrQ" />
+  <component name="ProjectId" id="2L0Pu5GWh6kg5PpIGvqUD0jYC7w" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="12 - Highly Divisible Triangular Number" />
+      <module name="13 - Large Sum" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -53,11 +50,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b8908e6-59f9-4fe1-8784-40309c6a07fd" name="Changes" comment="" />
-      <created>1675003895366</created>
+      <changelist id="bf3da297-7a54-4b18-b0dd-1dfb1ebc8b1a" name="Changes" comment="" />
+      <created>1675005245570</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675003895366</updated>
+      <updated>1675005245570</updated>
     </task>
     <servers />
   </component>
