@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a9ec86-b394-4785-8e7d-ad619524bd33" name="Changes" comment="" />
+    <list default="true" id="34e7e7eb-69c7-47fd-a44a-72a91c5f737b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2L0Qlgi18H0waby30dWBDLdFd5s" />
+  <component name="ProjectId" id="2L15LeK2Np8JkOgMhpv00XQVIdy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +29,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="14 - Longest Collatz Sequence" />
+      <module name="15 - Lattice Paths" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -50,11 +53,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="79a9ec86-b394-4785-8e7d-ad619524bd33" name="Changes" comment="" />
-      <created>1675005672664</created>
+      <changelist id="34e7e7eb-69c7-47fd-a44a-72a91c5f737b" name="Changes" comment="" />
+      <created>1675025693156</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675005672664</updated>
+      <updated>1675025693156</updated>
     </task>
     <servers />
   </component>
