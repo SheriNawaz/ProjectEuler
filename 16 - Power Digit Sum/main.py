@@ -7,10 +7,10 @@ What is the sum of the digits of the number 2^1000?
 
 def main():
     num = 2 ** 1000
-    digits = [int(i) for i in str(num)]
+    digits = [int(i) for i in str(num)] #Split number into digits
     sum = 0
     for i in digits:
-        sum += i
+        sum += i #Add digits
     print(sum)
 
 
